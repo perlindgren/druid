@@ -6,6 +6,7 @@ pub struct Application;
 
 impl Application {
     pub fn init() {
+        println!("application init");
         // No-op.
     }
 
